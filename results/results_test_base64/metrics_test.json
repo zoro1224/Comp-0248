@@ -1,0 +1,9 @@
+{
+  "det_accuracy_iou_0.5": 0.8431884057971014,
+  "det_mean_bbox_iou": 0.7898798434331793,
+  "seg_mean_iou_hand_bg": 0.9144467461838125,
+  "seg_dice": 0.8798307689032331,
+  "cls_top1_accuracy": 0.8339130434782609,
+  "cls_macro_f1": 0.8375706941594562,
+  "num_samples": 3450
+}

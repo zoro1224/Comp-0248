@@ -5,7 +5,6 @@ __pycache__/
 venv/
 
 dataset/
-results/
 weights/
 
 *.pth
